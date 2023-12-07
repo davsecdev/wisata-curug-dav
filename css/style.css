@@ -6,7 +6,7 @@ body {
 }
 
 header {
-  background-image: url('../img/curug.jpg'); /* Ganti 'header-background.jpg' dengan path atau URL gambar latar belakang yang diinginkan */
+  background-image: url('../img/curug-bogor.jpg'); /* Ganti 'header-background.jpg' dengan path atau URL gambar latar belakang yang diinginkan */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
